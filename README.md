@@ -14,3 +14,17 @@ Este repositorio cuenta con 2 carpetas de las prácticas Vector:
     ├── InsertionSort()
   
     ├── MergeSort()
+## 2. Carpeta: VectorPractica2
+    ├── InsertarValor(valor, posicion)
+    
+    ├── EliminarElemento(posicion)
+    
+    ├── CompararVectores(vector)
+    
+    ├── Union (vector)
+    
+    ├── Subconjunto (vector)
+    
+    ├── EliminarDuplicados()
+    
+    ├── Mostrar()
