@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\VectorPractica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E04CF4EF-F7E1-4907-A179-F2B6709E41E1}|VectorPractica2\\VectorPractica2.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\vectorpractica2\\vectorpractica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04CF4EF-F7E1-4907-A179-F2B6709E41E1}|VectorPractica2\\VectorPractica2.csproj|solutionrelative:vectorpractica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04CF4EF-F7E1-4907-A179-F2B6709E41E1}|VectorPractica2\\VectorPractica2.csproj|c:\\users\\arian\\onedrive\\documentos\\ucb tareas\\programacion 2\\vectorpractica2\\vectorpractica2\\vectorpractica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04CF4EF-F7E1-4907-A179-F2B6709E41E1}|VectorPractica2\\VectorPractica2.csproj|solutionrelative:vectorpractica2\\vectorpractica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VectorPractica2.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\VectorPractica2\\VectorPractica2\\VectorPractica2.cs",
+              "RelativeDocumentMoniker": "VectorPractica2\\VectorPractica2.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\VectorPractica2\\VectorPractica2\\VectorPractica2.cs",
+              "RelativeToolTip": "VectorPractica2\\VectorPractica2.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:59:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\VectorPractica2\\VectorPractica2\\Program.cs",
+              "RelativeDocumentMoniker": "VectorPractica2\\Program.cs",
+              "ToolTip": "C:\\Users\\arian\\OneDrive\\Documentos\\UCB TAREAS\\PROGRAMACION 2\\VectorPractica2\\VectorPractica2\\Program.cs",
+              "RelativeToolTip": "VectorPractica2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:11:50.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
