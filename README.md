@@ -1,17 +1,16 @@
 # TAD-Vector
 Este repositorio cuenta con 2 carpetas de las prácticas Vector:
-## ** 1. Carpeta: VectorPractica1 **
-  ├── ModificarLongitud
+## 1. Carpeta: VectorPractica1 
+    ├── ModificarLongitud
   
-  ├── ObtenerLongitud
+    ├── ObtenerLongitud
   
-  ├── PonerElemento (posicion, valor)
+    ├── PonerElemento (posicion, valor)
   
-  ├── ObtenerElemento (posicion)
+    ├── ObtenerElemento (posicion)
   
-  ├── SelectionSort()
+    ├── SelectionSort()
   
-  ├── InsertionSort()
+    ├── InsertionSort()
   
-  ├── MergeSort()
-  
+    ├── MergeSort()
