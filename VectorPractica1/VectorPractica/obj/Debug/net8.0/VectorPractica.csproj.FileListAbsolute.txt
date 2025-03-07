@@ -1,0 +1,14 @@
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\bin\Debug\net8.0\VectorPractica.exe
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\bin\Debug\net8.0\VectorPractica.deps.json
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\bin\Debug\net8.0\VectorPractica.runtimeconfig.json
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\bin\Debug\net8.0\VectorPractica.dll
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\bin\Debug\net8.0\VectorPractica.pdb
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\VectorPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\VectorPractica.AssemblyInfoInputs.cache
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\VectorPractica.AssemblyInfo.cs
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\VectorPractica.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\VectorPractica.dll
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\refint\VectorPractica.dll
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\VectorPractica.pdb
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\VectorPractica.genruntimeconfig.cache
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\VectorPractica\VectorPractica\obj\Debug\net8.0\ref\VectorPractica.dll
